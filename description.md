@@ -374,3 +374,4 @@
 | d11_b_s_4 | share of respondents: I have done this personally to combat climate change: Changed energy consumption: Not applicable |
 | d11_c_s_4 | share of respondents: I have done this personally to combat climate change: Reduced trips by means of private transportation: Not applicable |
 | d11_d_s_4 | share of respondents: I have done this personally to combat climate change: Discussed global warming with friends and family: Not applicable |
+| iso3166_2_it | ISO 3166-2:IT province identifier |
