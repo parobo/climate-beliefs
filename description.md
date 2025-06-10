@@ -117,7 +117,7 @@
 | d6_s_4 | share of respondents: Expected negative impact - personally: 4 - Very much  |
 | d6_s_5 | share of respondents: Expected negative impact - personally: Don't know |
 | d6_avg | average response: Expected negative impact - personally (1-4) |
-| d7_1 - number of respondents: Expected negative impact - future generations: 1 - Not at all |
+| d7_1 | number of respondents: Expected negative impact - future generations: 1 - Not at all |
 | d7_2 | number of respondents: Expected negative impact - future generations: 2 |
 | d7_3 | number of respondents: Expected negative impact - future generations: 3 |
 | d7_4 | number of respondents: Expected negative impact - future generations: 4 - Very much  |
